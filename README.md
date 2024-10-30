@@ -1,1 +1,2 @@
-# allbridge-github.io
+# docs-core.allbridge.io
+# Subdomain is taken over
