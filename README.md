@@ -1,2 +1,2 @@
 # docs-core.allbridge.io
-# Subdomain is taken over
+# Subdomain has been taken over
